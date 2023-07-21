@@ -10,7 +10,7 @@ The main research topics of this project include:
 * Low-latency machine learning edge inference system
 * Design and implementation of predictable, configurable, and interoperable SW framework for edge-cloud
 
-It is an 8-year (2023-2030) research project being conducted by NetLab at Korea University, which is designated as an *SW StarLab* by Institute of Information and Comunication Technology Planning and Evaluation (IITP), funded by the Korean government.
+Sco-Edge is an 8-year (2023-2030) research project being conducted by NetLab at Korea University, which is designated as an *SW StarLab* by Institute of Information and Comunication Technology Planning and Evaluation (IITP), funded by the Korean government.
 
 ## Contact
 
