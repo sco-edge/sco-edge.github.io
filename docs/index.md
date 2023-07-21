@@ -1,10 +1,6 @@
 # About
 
-Welcome to the homepage of Service Continuity-Oriented Edge Continuum SW Framework.
-
-It is an 8-year (2023-2030) research project being conducted by NetLab at Korea University, designated as an *IITP SW StarLab* by the government of Republic of Korea.
-
-This project is aimed at the research and development of service continuity-oriented SW framework for orchestrating edge continuum, a heterogeneous cloud computing platform which spans hyperscale clouds, edge clouds, and edge devices.
+The objective of **Sco-Edge** project is the design and implementation of *Service Continuity-Oriented Software Framework* for orchestrating the *edge continuum,* a heterogeneous cloud computing platform that spans hyperscale clouds, edge clouds, and edge devices.
 
 The main research topics of this project include:
 
@@ -13,6 +9,8 @@ The main research topics of this project include:
 * Data plane visibility-driven resource management for edge-cloud infrastructure
 * Low-latency machine learning edge inference system
 * Design and implementation of predictable, configurable, and interoperable SW framework for edge-cloud
+
+It is an 8-year (2023-2030) research project being conducted by NetLab at Korea University, which is designated as an *SW StarLab* by Institute of Information and Comunication Technology Planning and Evaluation (IITP), funded by the Korean government.
 
 ## Contact
 
