@@ -1,0 +1,9 @@
+site_name: Sco-Edge @ Korea University
+repo_url: https://github.com/sco-edge
+theme:
+  name: material
+  palette:
+    primary: black
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
