@@ -7,3 +7,5 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+  logo: logo-white.png
+  favicon: logo-black.png
