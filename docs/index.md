@@ -24,4 +24,4 @@ Sco-Edge is an 8-year (2023-2030) research project being conducted by NetLab at 
 
 ## Sponsor
 
-[IITP StarLab](http://www.swstarlab.kr/)
+[IITP SW StarLab](http://www.swstarlab.kr/)
